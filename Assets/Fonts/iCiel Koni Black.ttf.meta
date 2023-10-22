@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0bc53f2ef7714db40b765ceb01547861
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - iCiel Koni
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a1bf7c683057a6c408d09b98ad1894b3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
